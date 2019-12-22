@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 from telebot.types import Message
 import parsing as p
-TOKEN = '1'
+TOKEN = '062192421:AAF6rpH-ZNf-tv53N-bNCNsF0EXKw3cjLOw'
 #chat_id = '719274325'
 bot = telebot.TeleBot(TOKEN)
 
