@@ -1,4 +1,4 @@
-beautifullsoup4==4.8.2
+beautifulsoup4==4.8.2
 PySocks==1.7.1
 PyYAML==5.2
 argh==0.26.2
