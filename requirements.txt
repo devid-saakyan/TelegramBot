@@ -6,7 +6,7 @@ bs4==0.0.1
 cachier==1.2.8
 lxml==4.4.2
 packaging==19.2
-parse==1.21.1
+parse==1.12.1
 parse-type==0.5.2
 pip==19.3.1
 pyTelegramBotAPI==3.6.6
